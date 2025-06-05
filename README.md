@@ -30,3 +30,4 @@ Projeto criado utilizando HTML5, CSS3 e JQuery, com layout moderno, responsivo e
    ou
 3. Clique no botão verde **"Code"** acima.
 4. Selecione **"Download ZIP"** para baixar o projeto.
+5. Abra o arquivo index.html
